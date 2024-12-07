@@ -14,3 +14,8 @@ Este gráfico permite temos uma ideia dos valores médios, mediana, outliers dos
 Este gráfico permite temos uma ideia dos valores médios, mediana, outliers dos odometros comparando com os valores de venda dos veículos anunciados
 
 Estes dados são do mercado EUA, de anúncios realizados entre Maio de 2018 e abril de 2019
+
+
+O aplicativo pode ser acessado através do link abaixo:
+
+https://vehicles-us-wys2.onrender.com
