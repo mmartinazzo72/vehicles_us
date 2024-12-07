@@ -6,7 +6,7 @@ import plotly.express as px
 car_data = pd.read_csv('data/vehicles_us.csv')
 
 # criar um título para a página web
-st.header('Analise Gráfica dos Anúncios de Veículos nos EUA') 
+st.header('Análise de Anúncios de Veículos nos EUA')
 
 # criar um botão para gerar um histograma
 hist_button = st.button('Criar histograma')
